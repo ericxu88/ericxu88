@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Interested in: Backend software engineering, AI devtools/infra, deep learning research, and computational biology<br>📚 I'm currently learning: <br>- CSCI2470 (Graduate Level Deep Learning) <br>- CSCI0410 (Foundations of AI/ML) <br>- CSCI1951L (Blockchains and Cryptocurrencies) <br>- APMA1170 (Computational Linear Algebra)<br>🎯 Goals: <br>- Build and contribute to software engineering projects that improve consumer experiences and optimize workflows.  <br>- Push the field of deep learning research forward through impactful contributions.  <br>- Create and expand my own user-centric products by focusing on innovation, long-term impact, and accessibility.   <br>🎲 Fun fact: I play three instruments (piano, cello, bass) and have a published research paper in a Q2 academic journal on drug discovery</p>
+<p align="left">✨ Interested in: Backend software engineering, AI devtools/infra, deep learning research, and computational biology<br>📚 I'm currently learning: <br>- CSCI1470 (Deep Learning) <br>- CSCI0410 (Foundations of AI/ML) <br>- CSCI1951L (Blockchains and Cryptocurrencies) <br>- APMA1170 (Computational Linear Algebra)<br>🎯 Goals: <br>- Build and contribute to software engineering projects that improve consumer experiences and optimize workflows.  <br>- Push the field of deep learning research forward through impactful contributions.  <br>- Create and expand my own user-centric products by focusing on innovation, long-term impact, and accessibility.   <br>🎲 Fun fact: I play three instruments (piano, cello, bass) and have a published research paper in a Q2 academic journal on drug discovery</p>
 
 ###
 
