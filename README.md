@@ -53,7 +53,7 @@
 ###
 
 <h2 align="left">
-  Check out: <a href="relaydev.ai" target="_blank">Relay - AI Agent Version Control</a>
+  Check out: <a href="[relaydev.ai](https://www.relaydev.ai/)" target="_blank">Relay - AI Agent Version Control</a>
 </h2>
 
 
