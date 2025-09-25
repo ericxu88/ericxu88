@@ -53,7 +53,7 @@
 ###
 
 <h2 align="left">
-  Check out: <a href="https://relay-dev.vercel.app" target="_blank">Relay - AI Agent Version Control</a>
+  Check out: <a href="relay-dev.ai" target="_blank">Relay - AI Agent Version Control</a>
 </h2>
 
 
