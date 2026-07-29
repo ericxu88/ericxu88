@@ -1,6 +1,6 @@
 # eric xu
 
-applied Math + cs at brown.
+applied math + cs at brown.
 
 now: thinking about representation learning, causality, self-supervised methods. some agent infra on the side.
 
